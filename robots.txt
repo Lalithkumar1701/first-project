@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://navira-health-clinic.netlify.app/sitemap.xml
